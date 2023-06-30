@@ -9,3 +9,6 @@ Start by getting at least one pacman positioned and viewable.
 ## Image
 
 <img src="PacMan1.png">
+
+## License
+<a href="https://github.com/dlafavre/PacMen-Exercise/blob/main/LICENSE">MIT License</a>
