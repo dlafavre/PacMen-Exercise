@@ -1,5 +1,4 @@
-# PacMen
-Factory for making pacmen.
+# PacMen - Factory for making pacmen.
 
 We were given a starter.html code that we had to finish to make the game work.
 When button "make one" is pressed you need to complete the code 
